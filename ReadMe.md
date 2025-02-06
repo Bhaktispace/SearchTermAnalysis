@@ -41,6 +41,7 @@ E-Commerce/Product Team, Engineering (Search Team)
 ## Action Plan
 1. There is 28.82% of the times the users are not returned any results for their search. 
 Dresses, Shoes, Socks and water bottle are the terms which are resulting in no results.
+
 Maybe those products are not in stock or incorrect product categorization or missing products
 or the search system may fail to retrieve it due to technical reasons.
 
