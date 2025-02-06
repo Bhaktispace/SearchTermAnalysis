@@ -101,6 +101,7 @@ Product PAge: Improve conversion Funnel, users search often but convert less sug
 find what they need. The potential reasons can be to improve product page recommendations.
 
 ![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/9993d73877a68601c623267b2978aa98fda66a87/Images/Q5.PNG)
+
 6. There is a drop-off after clicking on the search results. The possible reasons could be:
 Pricing Issue, Lack of reviews, unclear product details or Checkout friction.
 
