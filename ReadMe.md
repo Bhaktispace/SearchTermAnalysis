@@ -39,8 +39,7 @@ E-Commerce/Product Team, Engineering (Search Team)
 6. What % of Users drop-offs from searching to purchase? 
 
 ## Action Plan
-1. There is 28.82% of the times the users are not returned any results for their search. 
-Dresses, Shoes, Socks and water bottle are the terms which are resulting in no results.
+1. There is 28.82% of the times the users are not returned any results for their search. Dresses, Shoes, Socks and water bottle are the terms which are resulting in no results.
 
 Maybe those products are not in stock or incorrect product categorization or missing products
 or the search system may fail to retrieve it due to technical reasons.
@@ -48,9 +47,13 @@ or the search system may fail to retrieve it due to technical reasons.
 ![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/dd77e9a8d4aea32535cd264703c56f220c69d763/Images/Q1.PNG)
 
 2. Highest CTR is for gaming chair at 73.6% and the lowest CTR is for Smartphones at 66.6%.
-The highest CTR is below the goal of 75%. To improve the CTR consider following: A/B test images 
+The highest CTR is below the goal of 75%.
+
+To improve the CTR consider following: A/B test images 
 and title, show discount badges and limited stock alerts, Use email/SMS retargeting users based
 on search behavior.
+
+![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/99b2fb59bf3ca7a5862d190b2144e295b5b6254a/Images/Q2.PNG)
 
 4. Moderate search time has the highest CTR (51.6%), meaning searches that take a moderate amount of time 
 lead to more clicks. Very slow query time (48.8%) has the lowest CTR, suggesting that long processing times
