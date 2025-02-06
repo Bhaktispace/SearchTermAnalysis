@@ -1,5 +1,5 @@
 # Search Analysis Project
-
+<img src="https://github.com/Bhaktispace/SearchTermAnalysis/blob/9993d73877a68601c623267b2978aa98fda66a87/Images/hand-touching-with-search-icon-search-engine-optimisation-seo-concept-find-information-by-internet-connection.jpg" alt="Sample Image" style="width:75%; height:auto;">
 ## Business Problem
 Users are searching for products on the website, but some searches do not return relevant results, 
 have low engagement (CTR), or fail to convert into purchases. This indicates potential issues with search accuracy, 
@@ -65,20 +65,25 @@ they may not find exactly what they need.
 Maintain optimized indexing to balance query speed & result quality, Improve query performance with better 
 caching, indexing, or query optimization and Ensure high-quality, relevant search results even for 
 slow queries.
+
 ![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/bd8e827982299fbe56149edcc8b03bd5ac9abecd/Images/Q3.PNG)
 
-5. Desktop (71.99%) has the highest success rate, followed by Tablet (71.31%) and Mobile (70.24%). 
+4. Desktop (71.99%) has the highest success rate, followed by Tablet (71.31%) and Mobile (70.24%). 
 Mobile has the lowest success rate, possibly due to smaller screens, less intuitive navigation, or 
 slower page loads. Desktop (51.45%) has the highest CTR, indicating that desktop users engage more with 
 search results. Mobile has the lowest CTR (48.71%), suggesting that users either abandon searches more often
-or struggle to find relevant results. Search time is nearly the same across devices (1.86–1.88s). Since 
-search times are similar, the differences in CTR and Success Rate are likely influenced by factors like 
-screen size, ease of interaction, or search intent rather than time spent searching. 
+or struggle to find relevant results. Search time is nearly the same across devices (1.86–1.88s).
+
+Since search times are similar, the differences in CTR and Success Rate are likely influenced by factors like 
+screen size, ease of interaction, or search intent rather than time spent searching.
+
 Since Mobile has the lowest success Rate and CTR investigate the Mobile UI/UX. Desktop users 
 click more and succeed more, maybe we should optimize desktop search experience for deeper enagagement 
 like product recommendations.
 
-6. Product Page (71.57%) has the highest success rate, meaning searches from product pages return relevant 
+![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/9993d73877a68601c623267b2978aa98fda66a87/Images/Q4.PNG)
+
+5. Product Page (71.57%) has the highest success rate, meaning searches from product pages return relevant 
 results most often. Homepage (70.91%) has the lowest success rate, indicating that searches from the homepage
 may be broader or less targeted. Homepage has the highest CTR (50.66%), suggesting that users searching from
 the homepage are more likely to click on a result. Product Page has the lowest CTR (50.06%), indicating that
@@ -86,11 +91,16 @@ users searching from product pages might already be browsing and click less. Hom
 conversion rate (10.34%), meaning users searching from the homepage are more likely to complete a purchase. 
 Product Page has the lowest conversion rate (9.59%), which is surprising given that product pages usually 
 indicate higher purchase intent.
+
 Homepage Search Optimization: High CTR and High Conversion rate indicates that users searching from the 
 home page are engaged and convert well. Maybe we should consider improving the search relevance further to 
 increase success rates.
+
 Product PAge: Improve conversion Funnel, users search often but convert less suggesting they might not 
 find what they need. The potential reasons can be to improve product page recommendations.
 
-7. There is a drop-off after clicking on the search results. The possible reasons could be:
+![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/9993d73877a68601c623267b2978aa98fda66a87/Images/Q5.PNG)
+6. There is a drop-off after clicking on the search results. The possible reasons could be:
 Pricing Issue, Lack of reviews, unclear product details or Checkout friction.
+
+![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/9993d73877a68601c623267b2978aa98fda66a87/Images/Q6.PNG)
