@@ -43,7 +43,7 @@ E-Commerce/Product Team, Engineering (Search Team)
 Dresses, Shoes, Socks and water bottle are the terms which are resulting in no results. Maybe those
 products are not in stock or incorrect product categorization or missing products
 or the search system may fail to retrieve it due to technical reasons. 
-
+![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/dd77e9a8d4aea32535cd264703c56f220c69d763/Images/Q1.PNG)
 2. Highest CTR is for gaming chair at 73.6% and the lowest CTR is for Smartphones at 66.6%.
 The highest CTR is below the goal of 75%. To improve the CTR consider following: A/B test images 
 and title, show discount badges and limited stock alerts, Use email/SMS retargeting users based
