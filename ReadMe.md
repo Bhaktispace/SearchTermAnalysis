@@ -1,5 +1,6 @@
 # Search Analysis Project
 <img src="https://github.com/Bhaktispace/SearchTermAnalysis/blob/9993d73877a68601c623267b2978aa98fda66a87/Images/hand-touching-with-search-icon-search-engine-optimisation-seo-concept-find-information-by-internet-connection.jpg" alt="Sample Image" style="width:75%; height:auto;">
+
 ## Business Problem
 Users are searching for products on the website, but some searches do not return relevant results, 
 have low engagement (CTR), or fail to convert into purchases. This indicates potential issues with search accuracy, 
