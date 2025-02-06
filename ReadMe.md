@@ -55,15 +55,17 @@ on search behavior.
 
 ![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/99b2fb59bf3ca7a5862d190b2144e295b5b6254a/Images/Q2.PNG)
 
-4. Moderate search time has the highest CTR (51.6%), meaning searches that take a moderate amount of time 
+3. Moderate search time has the highest CTR (51.6%), meaning searches that take a moderate amount of time 
 lead to more clicks. Very slow query time (48.8%) has the lowest CTR, suggesting that long processing times
 reduce engagement. Very slow query times has the highest conversion rate (10.6%), meaning when queries take 
 longer, the search results may be more refined, leading to better purchase decisions. Moderate query times
 have the lowest conversion rate (8.9%), suggesting that although users engage more (high CTR), 
-they may not find exactly what they need. 
+they may not find exactly what they need.
+
 Maintain optimized indexing to balance query speed & result quality, Improve query performance with better 
 caching, indexing, or query optimization and Ensure high-quality, relevant search results even for 
 slow queries.
+![image alt](https://github.com/Bhaktispace/SearchTermAnalysis/blob/bd8e827982299fbe56149edcc8b03bd5ac9abecd/Images/Q3.PNG)
 
 5. Desktop (71.99%) has the highest success rate, followed by Tablet (71.31%) and Mobile (70.24%). 
 Mobile has the lowest success rate, possibly due to smaller screens, less intuitive navigation, or 
